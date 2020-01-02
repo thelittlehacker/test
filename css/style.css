@@ -11099,6 +11099,12 @@ header .colorlib-navbar-brand .colorlib-logo:focus {
   }
 }
 
+@media screen and (device-aspect-ratio: 40/71) {
+  .owl-carousel.home-slider .slider-item .slider-text h1 {
+    font-size: 18px;
+  }
+}
+
 .owl-carousel.home-slider .slider-item .slider-text p {
   font-size: 20px;
   line-height: 1.5;
